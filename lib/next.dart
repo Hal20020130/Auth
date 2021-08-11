@@ -123,7 +123,7 @@ class _NextState extends State<Next> {
           backgroundColor: Colors.deepPurple,
           title: Text(
             '${currentUser!.email}',
-            style: TextStyle(color: Colors.white, fontWeight: FontWeight.w900),
+            style: TextStyle(color: Colors.white, fontWeight: FontWeight.w100),
           ),
         ),
         body: Padding(
